@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'am Albert Daniel**.\
+**I'm Albert Daniel**.\
 
 I'm a **Software Engineering Student** at Nusa Mandiri University
 
